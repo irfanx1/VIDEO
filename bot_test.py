@@ -68,15 +68,15 @@ logger = logging.getLogger(__name__)
 # 🔧 BOT CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════
 
-API_ID = id
-API_HASH = "hash"
-BOT_TOKEN = "token"
-DEVELOPER_ID = id
+API_ID = 39407537
+API_HASH = "5bd2e83dd1227da3f38c966d1d46d9ae"
+BOT_TOKEN = "8540781290:AAH2LcuDU6_bvfDV9RpmzkNhwX6ga572gIM"
+DEVELOPER_ID = 8180269769
 
 UPDATE_CHANNEL = "https://t.me/auto_uploading"
 SUPPORT_GROUP = "https://t.me/Auto_uploading_support_group"
-DEVELOPER_URL = "https://t.me/RJGamer07"
-GEMINI_API_KEY = "api"
+DEVELOPER_URL = "https://t.me/SubaruXnatsuki"
+GEMINI_API_KEY = "AQ.Ab8RN6LF0_h6uR798yBz4P5FOq2-SrFx8hdiLuqSgcH1uUG9Rw"
 
 # ═══════════════════════════════════════════════════════════════════
 # 🎯 VPS RESOURCE MANAGEMENT
@@ -300,8 +300,8 @@ QUALITY_PRESETS = {
 }
 
 VOICE_PRESETS = {
-    "female": {"label": "👩 Female (Swara)", "code": "hi-IN-SwaraNeural"},
-    "male": {"label": "👨 Male (Madhur)", "code": "hi-IN-MadhurNeural"}
+    "female": {"label": "👩 ғᴇᴍᴀʟᴇ (ᴄᴜᴛɪᴇ) ", "code": "hi-IN-SwaraNeural"},
+    "male": {"label": "👨 ᴍᴀʟᴇ (sʜᴜᴜʜʜ!)", "code": "hi-IN-MadhurNeural"}
 }
 
 # ═══════════════════════════════════════════════════════════════════
